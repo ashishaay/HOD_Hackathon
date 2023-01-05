@@ -25,6 +25,12 @@ due to it's leaf based model structure
 We did use Lazy Predictor to go through approximately 30 models all at once, to decide for the best model available
 We also used some Dense Neural Models but the Machine Learning models proved to work better.
 
+
+HyperParameter Tuning : 
+
+We did hyperparemter tuning for the selected Machine learning model by using iterative approach, however for the Dense Neural Network,
+we used Keras Tuner.
+
 # Results
 
 In the Public Test Cases, we got 63.8% accuracy which was the highest amongst all the participants, and we ultimately won.
