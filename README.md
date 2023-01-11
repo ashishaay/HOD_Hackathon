@@ -1,6 +1,6 @@
 # HOD_Hackathon
 
-In this hackathon a Dataset released by Microsoft was used. We won the hackthon by puttin in some effort.
+In this hackathon a Dataset released by Microsoft was used. We won the hackathon by putting in some effort.
 
 # Notes :
 
